@@ -6,4 +6,8 @@ Created on Tue Mar 29 21:16:44 2022
 """
 print("Angelica M. Danao")
 print("Ino, Gasan, NArinduque")
-print("October 15 2000)
+print("October 15 2000")
+
+print("Marinduque State College")
+print("BS Information Technology")
+print("2E")
